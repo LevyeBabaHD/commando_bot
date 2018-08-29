@@ -1,6 +1,5 @@
 const { CommandoClient, FriendlyError, SQLiteProvider } = require('discord.js-commando'),
     path = require('path'),
-    sqlite = require('sqlite'),
 	  oneLine = require('common-tags').oneLine,
       moment = require('moment'),
       dbaapi = require('discord-bots-api'),
