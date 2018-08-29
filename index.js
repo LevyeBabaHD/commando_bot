@@ -2,7 +2,7 @@ const { CommandoClient, FriendlyError, SQLiteProvider } = require('discord.js-co
     path = require('path'),
 	  oneLine = require('common-tags').oneLine,
       moment = require('moment'),
-      dbaapi = require('discord-bots-api'),
+     ,
       winston = require('winston'),
 	  request = require('request'),
 	  snekfetch = require('snekfetch'),
